@@ -3,7 +3,7 @@
 /* 1 1 2 3 5 8 13 21 34 55 89 144 ...
  * a b c a b c a b c a b c a  c  
  *
- * Every third Fibonaccy number is even, just every thid numer added.
+ * Every third Fibonaccy number is even, just add every third number.
  * */
 
 #include <iostream> 
