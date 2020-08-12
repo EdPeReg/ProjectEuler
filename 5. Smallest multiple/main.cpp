@@ -15,7 +15,7 @@
 #include <iostream>
 
 int main() {
-	int num = 2, num2 = 20;
+	long num = 2, num2 = 20;
 	while(num <= 20) {
 		if(num2 % num != 0) {
 			++num2;
