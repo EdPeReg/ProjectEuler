@@ -1,0 +1,3 @@
+- Problem:              https://projecteuler.net/problem=1
+- Explanation:          https://projecteuler.net/overview=001
+- Summation formula:    https://www.cuemath.com/summation-formulas/
